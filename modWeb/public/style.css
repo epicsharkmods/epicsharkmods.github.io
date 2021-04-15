@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+
+
+.leader-font {
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+}
+.extreme {
+    font-family: 'RocknRoll One', sans-serif;
+}
+.next-gen {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Color Mods */
+
+body{
+    overflow: auto;
+    background: linear-gradient(0deg, rgba(23,23,25,1) 0%, rgba(72,71,74,1) 100%) !important;
+    color: white !important;
+}
+.sharp-background {
+    background: linear-gradient(0deg, rgba(1,75,19,1) 0%, rgba(0,255,203,1) 100%);
+}
+.subby {
+    background-color: black;
+    border: 3px solid white;
+}
+.etsy-tag {
+    color: black !important;
+    font-family: font-family: 'RocknRoll One', sans-serif !important;
+}
+.other {
+    font-family: 'Merriweather Sans', sans-serif;
+}
